@@ -1,5 +1,5 @@
 def int_func (*args):
-    word = input("Input words ")
+    word = input("Введите слово ")
     print(word.title())
     return
 int_func() 
